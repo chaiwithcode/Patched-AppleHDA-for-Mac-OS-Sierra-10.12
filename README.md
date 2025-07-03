@@ -1,5 +1,5 @@
 
-![HDA Icon](https://raw.githubusercontent.com/chaiwithcode/cloverHDA/master/cloverHDA.jpg)
+![HDA Icon](https://github.com/chaiwithcode/cloverHDA-for-Mac-OS-Sierra-10.12/blob/master/res/cloverHDA.jpg?raw=true)
 # cloverHDA 
 
 Collection of Patched AppleHDA to enables audio/sound on Mac OS Sierra 10.12
